@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bluekatelo
-- 👀 I’m interested in tradinmg algorithms 
+- 👀 I’m interested in trading algorithms
 - 🌱 I’m currently learning Python, Pine Script, MERN Stack
 - 📫 How to reach me ...
 
