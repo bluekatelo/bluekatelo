@@ -1,6 +1,9 @@
 Hello, I'm Caleb, also @bluekatelo
-I’m a sophomore computer science student and Suffolk University. I'm mainly interested in programming for the finance world.
+
+I’m a sophomore computer science student at Suffolk University. I'm mainly interested in programming for the finance world, but also some web development.
+
 I’m currently learning Python, JavaScript, Machine Learning & Data Science
+
 If you want to reach me, feel free to email me at ccohen3@su.suffolk.edu
 
 <!---
