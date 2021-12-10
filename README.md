@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bluekatelo
-- 👀 I’m interested in trading algorithms, web development
-- 🌱 I’m currently learning Python, Pine Script, MERN Stack
-- 📫 How to reach me ...
+Hello, I'm Caleb, also @bluekatelo
+I’m a sophomore computer science student and Suffolk University. I'm mainly interested in programming for the finance world.
+I’m currently learning Python, JavaScript, Machine Learning & Data Science
+If you want to reach me, feel free to email me at ccohen3@su.suffolk.edu
 
 <!---
 bluekatelo/bluekatelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
